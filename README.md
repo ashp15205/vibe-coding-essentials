@@ -70,6 +70,18 @@ Healthy AI-assisted development involves switching modes as work evolves.
 
 ---
 
+## Performance & Benchmarks
+
+Strict behavioral rules don't just prevent bugs—they reduce code bloat. In a recent benchmark against a `qwen3:8b` local model evaluating a standard coding task (Node.js filesystem ops):
+
+* **Baseline (Raw Model):** 31 Lines of Code
+* **[Ponytail](https://github.com/DietrichGebert/ponytail) Base Prompt:** 21 Lines of Code
+* **Ponytail + Vibe Coding Essentials:** **17 Lines of Code**
+
+Injecting our anti-hallucination guardrails shaved an additional **19% off the code length** compared to the base "lazy dev" prompt by forcing the model to adhere strictly to native APIs instead of inventing unnecessary abstractions.
+
+---
+
 ## What This Repository Contains
 
 - [`SKILL.md`](./SKILL.md): The 11 core meta-skills required to manage AI agents effectively.
