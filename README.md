@@ -2,6 +2,10 @@
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](./CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
+> 🏆**Recognized:** 
+> - **[Awesome Vibe Coding](https://github.com/acvnace/awesome-vibe-coding-resources):** Officially featured in the premier directory of vibe coding resources!
+
+
 Most developers use the same workflow for every AI task.
 
 That is the mistake.
