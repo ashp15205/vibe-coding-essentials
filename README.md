@@ -2,8 +2,7 @@
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](./CHANGELOG.md)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
 
-> 🏆**Recognized:** 
-> - **[Awesome Vibe Coding](https://github.com/acvnace/awesome-vibe-coding-resources):** Officially featured in the premier directory of vibe coding resources!
+> 🏆**Recognized:** **[Awesome Vibe Coding](https://github.com/acvnace/awesome-vibe-coding-resources):** Officially featured in the premier directory of vibe coding resources!
 
 
 Most developers use the same workflow for every AI task.
@@ -125,6 +124,17 @@ The files in this repository are designed for distinct parts of your workflow:
 - **`LESSONS_LEARNED.md` & `production/hardening.md`**: Review these before shipping. They document the catastrophic AI failures you must manually check for.
 
 ---
+<p align="center">
+  <a href="https://star-history.com/#ashp15205/vibe-coding-essentials&Date">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ashp15205/vibe-coding-essentials&type=Date&theme=dark" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ashp15205/vibe-coding-essentials&type=Date" />
+     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ashp15205/vibe-coding-essentials&type=Date" />
+   </picture>
+  </a>
+</p>
+
+
 
 ## Philosophy
 
